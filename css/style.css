@@ -1,0 +1,12 @@
+.height {
+  height: 250px;
+}
+.relative {
+  position: relative;
+}
+.profile {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
